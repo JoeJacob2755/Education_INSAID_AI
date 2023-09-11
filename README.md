@@ -1,2 +1,2 @@
-# Education_INSAID_AI
-Contains projects done part of PGP in AI from INSAID (Acredian)
+# Classification Project
+Classification done using Advanced ML Algorithms to classify mythical creatures baded on their features
